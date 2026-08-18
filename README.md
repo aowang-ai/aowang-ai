@@ -18,6 +18,10 @@ FinTech Ph.D. student at HKUST(GZ) and Tongji alumnus. I work on AI agents and f
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" title="SQL" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" title="Next.js" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" alt="Solidity" title="Solidity" />
 
 <br/><br/>
 
@@ -27,6 +31,11 @@ FinTech Ph.D. student at HKUST(GZ) and Tongji alumnus. I work on AI agents and f
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" title="Terminal" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" title="GitHub" />
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind" title="Tailwind" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png" alt="Vercel" title="Vercel" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI" title="FastAPI" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" title="PyTorch" />
 <br/><br/>
 
 ---
