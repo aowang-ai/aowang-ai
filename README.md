@@ -1,12 +1,5 @@
 ## Hi, I'm Ao Wang (王奥)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-FinTech Ph.D. student at HKUST(GZ) and Tongji alumnus. I work on AI agents and full-stack products. Recently spent time building [OpenNomos](https://www.opennomos.com) and [PaperList.ai](https://paperlist.ai). 
-
-
-
 ## A little More about me :
-
-- 🔭 &nbsp; More information in my <a href="https://aowang.ai/">Website</a>
 
 - 👯 &nbsp; Looking to collaborate on Web3, AI agents & full-stack 
 - 💬 &nbsp; Ask me about anything I'm happy to help 
