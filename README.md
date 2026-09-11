@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ao+Wang+(%E7%8E%8B%E5%A5%A5);AI-era+super+individual;Multi-track+builder+%E2%80%94+I+ship" alt="Typing SVG" />
-
   <p>
     🎓 Student at Tongji → HKUST(GZ) FinTech Ph.D.<br/>
     🔬 Researching FinTech / AI for trading<br/>
