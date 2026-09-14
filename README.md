@@ -12,7 +12,7 @@
     <a href="https://x.com/aowang"><img src="https://img.shields.io/badge/X-@aowang-000000?style=for-the-badge" alt="X"/></a>
     <a href="https://www.linkedin.com/in/ao-wang-ai/"><img src="https://img.shields.io/badge/LinkedIn-ao--wang--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://scholar.google.com.hk/citations?user=J7V3EhgAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-    <a href="mailto:wangaotongji@gmail.com"><img src="https://img.shields.io/badge/Email-wangaotongji@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:helloaowang@gmail.com"><img src="https://img.shields.io/badge/Email-helloaowang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
 </div>
@@ -60,4 +60,4 @@ I moved from Web3 infrastructure into AI agent systems and FinTech research. Acr
 - X: [@aowang](https://x.com/aowang)
 - LinkedIn: [ao-wang-ai](https://www.linkedin.com/in/ao-wang-ai/)
 - Google Scholar: [J7V3EhgAAAAJ](https://scholar.google.com.hk/citations?user=J7V3EhgAAAAJ&hl=zh-CN)
-- Email: [wangaotongji@gmail.com](mailto:wangaotongji@gmail.com)
+- Email: [helloaowang@gmail.com](mailto:helloaowang@gmail.com)
