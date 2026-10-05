@@ -1,6 +1,6 @@
 # Ao Wang
 
-FinTech Ph.D. student at HKUST (Guangzhou), working on several tracks in parallel: research, open source, and products I build myself.
+FinTech Ph.D. student at HKUST (Guangzhou), working on several tracks in parallel: research and products I build myself.
 
 [Website](https://aowang.ai) · [X](https://x.com/aowang) · [LinkedIn](https://www.linkedin.com/in/ao-wang-ai/) · [Google Scholar](https://scholar.google.com.hk/citations?user=J7V3EhgAAAAJ&hl=zh-CN) · [Email](mailto:helloaowang@gmail.com)
 
