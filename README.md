@@ -9,9 +9,6 @@ AI-assisted finance, and agent systems with evaluation harnesses.
 - CityWeave, KDD 2026 Oral (first author): VLM-based door-to-door mobility planning
 - HSGraphAgent, ACL 2026: knowledge-graph-guided LLMs for customs HS code classification
 
-## Open source
-- [QuantDinger](https://github.com/OpenByteInc/QuantDinger), core team: open-source AI quantitative trading platform, 12K+ stars
-
 ## Building
 - [OpenNomos](https://opennomos.com): a growth agent that finds your first users on Reddit, X, and Xiaohongshu, and helps your project get found by more.
 - [PaperList](https://paperlist.ai): AI-native research workflow
